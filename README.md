@@ -1,3 +1,5 @@
+dataset : https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
 # Deep Learning Tutorial: From Dataset to Deployment
 
 This tutorial walks you through a simple **end-to-end Deep Learning workflow**: setup dataset → train → evaluate → deploy.
